@@ -2,7 +2,7 @@
 
 # NavigationSkippingBack
 
-This project shows how to create navigation controller views that allow to skip views when going back to the root view controller. It loads views as follow:
+This project shows on way to create navigation controllers that allow to skip views when going back to the root view controller. It loads views as follow:
 
 ```
 Root → Creator → Viewer
